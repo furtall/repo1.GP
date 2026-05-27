@@ -1,4 +1,4 @@
-# ISSUES – Proyecto Presupuesto Participativo
+# ISSUES – Proyecto OpenFounds
 
 > Sistema que permite a los ciudadanos proponer, visualizar y votar proyectos para la asignación de recursos públicos.
 
