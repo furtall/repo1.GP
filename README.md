@@ -1,3 +1,2 @@
-# repo1.GP
-repositorio para gestión de proyecto
-hgfgfghg
+# Openfounds GrupoB
+## Integrantes; 1 alexis guzmàn 2 jasd
