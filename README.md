@@ -1,3 +1,4 @@
+#En revisión NO PASAR
 # openfounds
 **Sistema de Presupuesto Participativo — Río Tercero, Córdoba**
 
